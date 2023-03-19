@@ -3,6 +3,11 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
+    - title: 影视资源站
+      logo: 语雀.jpg
+      url: http://frps-new.ksust.com:30183
+      description: 丰富的影视资源网站。
+    
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/

@@ -4,38 +4,40 @@
   icon: far fa-star
   links: 
     - title: 影视资源站
-      logo: 语雀.jpg
-      url: http://frps-new.ksust.com:30183
+      logo: mxone.pnp
+      url: frphn2.chickfrp.com:10015
       description: 丰富的影视资源网站。
     
-    - title: 语雀
-      logo: 语雀.jpg
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 开源中国
-      logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-    - title: CODING
-      logo: coding.png
-      url: https://shenweiyan.coding.net/user/projects
-      description: 个人 CODING 代码托管。
-    - title: GitHub
-      logo: github.jpg
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: Markdown 排版利器，Md2All 定制版。
+    - title: 小说资源站
+      logo: 小说.ico
+      url: http://frphn2.chickfrp.com:10010
+      description: 30多万部小说资源网站。
+      
+    - title: 小雅网盘资源
+      logo: 小雅.ico
+      url: http://frphn2.chickfrp.com:10005
+      description: 海量影视高清无广告资源
+             
+    - title: 综合网盘资源
+      logo: 网盘.ico
+      url: http://frphn2.chickfrp.com:10011
+      description: 丰富的Alist综合网盘资源。
+      
+    - title: 免费音乐搜索
+      logo: 音乐.ico
+      url: http://frps-new.ksust.com:30186
+      description: 各大平台的音乐搜索。
+           
+    - title: 人工智能机器人
+      logo: ai.png
+      url: https://chat.aidutu.cn/#/chat/1002
+      description: 聊天，写作、论文、编程我无所不能。
+      
+       - title: 在线小游戏
+      logo: 游戏.png
+      url: http://frphn2.chickfrp.com:10017
+      description: 闲时玩玩游戏放松下心情。
+      
     - title: 搜狗微信
       logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
@@ -48,7 +50,11 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
-
+      
+     - title: GitHub
+      logo: github.jpg
+      url: https://github.com/
+      description: GitHub 开源社区。 
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
@@ -154,14 +160,8 @@
           logo: 网易云音乐.jpg
           url: https://music.163.com/
           description: 163 网易云音乐。
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.png
-          url: https://www.dytt8.net/index.htm
-          description: 电影天堂（DYTT8），高清电影下载。
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.png
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载。
+          
+       
     - term: 游戏竞技
       links:
         - title: 百度贴吧
